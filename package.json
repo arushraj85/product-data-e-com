@@ -6,9 +6,17 @@
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arushraj85/product-data-e-com.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arushraj85/product-data-e-com/issues"
+  },
+  "homepage": "https://github.com/arushraj85/product-data-e-com#readme",
   "description": "",
   "dependencies": {
     "cors": "^2.8.5",
